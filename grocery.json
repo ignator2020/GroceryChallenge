@@ -1,0 +1,92 @@
+{
+    "grocery" :[
+        {
+            "SerialNumber" : "Sl.No",
+            "Name" : "Name",
+            "Quantity" : "Quantity",
+            "Unit" : "Unit",
+            "Department" : "Department",
+            "Notes" : "Notes"
+        },
+        {
+            "SerialNumber" : "1",
+            "Name" : "Apple",
+            "Quantity" : "1",
+            "Unit" : "Kg",
+            "Department" : "Fruits",
+            "Notes" : "Kashmiri fresh"
+        },
+        {
+            "SerialNumber" : "2",
+            "Name" : "Onion",
+            "Quantity" : "1",
+            "Unit" : "Kg",
+            "Department" : "Vegetables",
+            "Notes" : "Big Onion"
+        },
+        {
+            "SerialNumber" : "3",
+            "Name" : "Rice",
+            "Quantity" : "2",
+            "Unit" : "Kg",
+            "Department" : "Grocery",
+            "Notes" : "Basmati"
+        },
+        {
+            "SerialNumber" : "4",
+            "Name" : "Soap",
+            "Quantity" : "2",
+            "Unit" : "No",
+            "Department" : "Bathroom",
+            "Notes" : "Pears"
+        },
+        {
+            "SerialNumber" : "5",
+            "Name" : "Hand Sanitizer",
+            "Quantity" : "1",
+            "Unit" : "No",
+            "Department" : "Cleansers",
+            "Notes" : "Q7"
+        },
+        {
+            "SerialNumber" : "6",
+            "Name" : "Talcum Powder",
+            "Quantity" : "1",
+            "Unit" : "No",
+            "Department" : "Cosmetics",
+            "Notes" : "Ponds"
+        },
+        {
+            "SerialNumber" : "7",
+            "Name" : "Dettol",
+            "Quantity" : "1",
+            "Unit" : "No",
+            "Department" : "Cleansers",
+            "Notes" : "Big bottle"
+        },
+        {
+            "SerialNumber" : "8",
+            "Name" : "Notebook",
+            "Quantity" : "5",
+            "Unit" : "No",
+            "Department" : "Stationary",
+            "Notes" : "Classmates"
+        },
+        {
+            "SerialNumber" : "9",
+            "Name" : "Pen",
+            "Quantity" : "2",
+            "Unit" : "No",
+            "Department" : "Stationary",
+            "Notes" : "Parker"
+        },
+        {
+            "SerialNumber" : "10",
+            "Name" : "Pencil",
+            "Quantity" : "2",
+            "Unit" : "No",
+            "Department" : "Stationary",
+            "Notes" : "Nataraj"
+        }
+    ]
+}

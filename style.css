@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: beige;
+    margin: 5%;
+    padding: 2% 25% 5% 25%;
+    border: 2px dotted rgb(58, 25, 25);
+}
+h1{
+    text-align: center;
+    color: brown;
+    text-shadow: 2px 2px 4px brown;
+    text-decoration: underline;
+}
+.para{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.para button{
+    height: 50px;
+    width: 200px;
+    margin-top: 10%;
+    background-color: goldenrod;
+    color: honeydew;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+#myTable{
+    width: 100px;
+    padding: 5%;
+    /* background-color: white; */
+}
+.grotable{
+    /* align-items: center; */
+    margin-left: 10%;
+    /* border: 3px solid brown; */
+}
+
+.grotable tbody td{
+    border: 1px solid brown;
+    padding: 3%;
+    font-weight: 100;
+    width: max-content;    
+}
